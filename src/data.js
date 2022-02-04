@@ -1,0 +1,1 @@
+export const personajes = ['Gandalf', 'Jon Snow', 'Bilbo', 'Theoden', 'Geralt', 'Tyrion'];
